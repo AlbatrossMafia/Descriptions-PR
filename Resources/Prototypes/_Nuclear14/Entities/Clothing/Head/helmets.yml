@@ -80,7 +80,7 @@
   id: N14ClothingHeadHatBaseHelmetMetal
   name: metal helmet
   abstract: true
-  description: A metal helmet offering some ballistic protection.
+  description: A metal helmet; not as good as proper ballistic protection, but better than nothing.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/ncrhelmet.rsi
@@ -102,7 +102,7 @@
   id: N14ClothingHeadHatBaseHelmetMK2
   name: MK2 metal helmet
   abstract: true
-  description: A helmet offering advanced protection.
+  description: An advanced helmet offering excellent protection. 
   components:
   - type: Armor
     modifiers:
@@ -119,7 +119,7 @@
   parent: N14ClothingHeadHatBaseHelmetMetal
   id: N14ClothingHeadHatCombatHelmet
   name: combat helmet
-  description: A ballistic helmet of the pre-war era.
+  description: A ballistic helmet, standard issue for the US military. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/combathelmet.rsi
@@ -138,7 +138,7 @@
   parent: N14ClothingHeadHatCombatHelmet
   id: N14ClothingHeadHatCombatHelmetCargo
   name: combat helmet
-  description: A ballistic helmet of the pre-war era.
+  description: A ballistic helmet, standard issue for the US military. 
   components:
   - type: Armor
     modifiers:
@@ -153,7 +153,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatCombatHelmetMK2
   name: combat helmet MK2
-  description: An advanced ballistic helmet of the pre-war era.
+  description: An advanced ballistic helmet from before the war. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/combathelmetmk2.rsi
@@ -164,7 +164,7 @@
   parent: N14ClothingHeadHatCombatHelmetMK2
   id: N14ClothingHeadHatCombatHelmetMK2Cargo
   name: combat helmet MK2
-  description: An advanced ballistic helmet of the pre-war era.
+  description: An advanced ballistic helmet from before the war. 
   components:
   - type: Armor
     modifiers:
@@ -179,7 +179,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatBaseHelmetmarine
   name: marine helmet
-  description: An extremely advanced combat helmet.
+  description: An extremely advanced combat helmet. The only thing better would be a suit of power armour. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/marinehelmet.rsi
@@ -401,7 +401,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatRangerHelmet
   name: ranger combat helmet
-  description: A helmet offering advanced protection, this one is commonly used by Rangers.
+  description: A pre-war riot helmet, now used by the NCR Rangers. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/rangerhelmet.rsi
@@ -419,7 +419,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatRangerHelmetOld
   name: old ranger combat helmet
-  description: An old combat helmet, out of use around the time of the war.
+  description: A pre-war riot helmet, now used by the NCR Rangers. This one has seen some serious use and abuse. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/rangerhelmetold.rsi
@@ -473,7 +473,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatRangerHelmetElite
   name: elite ranger combat helmet
-  description: An old combat helmet seen in the Divide, repurposed for higher-ranking Rangers.
+  description: A pre-war riot helmet, upgraded and used by the most decerning NCR Rangers.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/rangerhelmetelite.rsi
@@ -491,7 +491,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatRangerHelmetEliteOld
   name: worn elite ranger combat helmet
-  description: Worn riot helmet from before the war. Faded by time and use, this helmet still sees use as a form of protection for the law bringers of the New California Republic.
+  description: A worn riot helmet from before the war. Faded by time and use, this helmet still sees use as a form of protection for the law bringers of the New California Republic.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/rangerhelmetelite.rsi
@@ -527,7 +527,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatRangerHelmetModif
   name: modified ranger combat helmet
-  description: A thicker than average helmet worn by rangers out in the field.
+  description: A heavier ranger combat helmet, for protecting the head and its contents. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/rangerhelmetmodif.rsi
@@ -620,7 +620,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatHelmetRCMP
   name: RCMP combat helmet
-  description: An simple combat helmet painted in black.
+  description: An simple combat helmet painted black.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/mountiehelmet.rsi
@@ -638,7 +638,7 @@
   parent: N14ClothingHeadHatBaseHelmetMK2
   id: N14ClothingHeadHatSpecHelmetRCMP
   name: RCMP specialist helmet
-  description: An simple combat helmet painted in black, this one comes with built-in comms.
+  description: An simple combat helmet painted black, with built-in communications equipment. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/mountiespechelmet.rsi
@@ -658,7 +658,7 @@
   parent: N14ClothingHeadHatBaseHelmetMetal
   id: N14ClothingHeadHatChineseHelmet
   name: chinese helmet
-  description: A chinese rounded green helmet, basic and cheap.
+  description: A rounded green helmet, used by the Chinese. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/chinesehelmet.rsi
@@ -669,7 +669,7 @@
   parent: N14ClothingHeadHatBaseHelmetMetal
   id: N14ClothingHeadHatChineseHelmetMk2
   name: special ops chinese helmet
-  description: A chinese rounded black helmet with integrated night vision.
+  description: A black helmet, used by the Chinese with integrated night vision.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/chinesespecialhelmet.rsi
@@ -679,8 +679,8 @@
 - type: entity
   parent: N14ClothingHeadHatBaseHelmetMetal
   id: N14ClothingHeadHatPressHelmet
-  name: prewar reporter helmet
-  description: An old piece of armor once used by the Free Press before the war. Should still offer some protection.
+  name: pre-war reporter helmet
+  description: A helmet worn by pre-war reporters in the field, perfect for catching stray shrapnel and to prevent getting shot at. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/reporterhelmet.rsi
@@ -690,8 +690,8 @@
 - type: entity
   parent: N14ClothingHeadHatBaseHelmetMetal
   id: N14ClothingHeadHatPrewarMilitaryHelmet
-  name: prewar military helmet
-  description: An old piece of armor once used by the US Army before the end.
+  name: pre-war military helmet
+  description: A pre-war military helmet, used by the US Army before the Great War. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/prewarmilitaryhelmet.rsi
@@ -702,7 +702,7 @@
   parent: N14ClothingHeadSuitbase
   id: N14ClothingHeadHatHelmetRadHelmet
   name: radiation suit helmet
-  description: A advance helmet used pre war to handle radioactive material.
+  description: An advanced helmet with filtration equipment and lined with lead to protect the wearer from background radiation. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/falloutradsuit.rsi
@@ -725,7 +725,7 @@
   parent: N14ClothingHeadSuitbase
   id: N14ClothingHeadHatHelmetFirefighterHelmet
   name: fire resistant helmet
-  description: A advance helmet used pre war to handle high temperatures.
+  description: An advanced helmet, designed to protect its wearer from superheated air, and embers from raging fire. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/falloutfirefighter.rsi
@@ -748,7 +748,7 @@
   parent: N14ClothingHeadSuitbase
   id: N14ClothingHeadHatHelmetSpaceHelmet
   name: space helmet
-  description: A strange Pre-War helmet, useful for doing moonwalks.
+  description: A pre-war helmet used by the USSA for exploring space. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/falloutspacesuit.rsi
@@ -772,7 +772,7 @@
   parent: [N14ClothingHeadSuitbase, BaseToggleClothing]
   id: N14ClothingHeadHatHelmetChineseStealthSuitHelmet
   name: chinese stealth helmet
-  description: the peak of chinese technology.
+  description: A helmet used for stealth operations, and studied for Stealth Boy research. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/falloutchinesestealthsuit.rsi
@@ -923,7 +923,7 @@
   parent: N14ClothingHeadHatCombatHelmet
   id: N14ClothingHeadJunkHelmet
   name: Raider junk helmet
-  description: An intimidating helmet crudely made from metal scrap.
+  description: An intimidating helmet crafted from scrap metal. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/JunkHelm.rsi
@@ -988,7 +988,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadTownGuardBrodie
   name: brodie helmet
-  description: A metal helmet offering some protection for the Town's Guard.
+  description: A pre-war helmet used by British and Commonwealth forces until 1942, and adopted once again by the Town's Guard
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/townbrodie.rsi
@@ -1011,7 +1011,7 @@
   parent: N14ClothingHeadTownGuardBrodie
   id: N14ClothingHeadTownGuardBrodieCover
   name: brodie helmet
-  description: A metal helmet offering some protection for the Town's Guard. This one has a neck cover to offer additional defense against flying shrapnel and the cold.
+  description: A pre-war helmet used by British and Commonwealth forces until 1942, and adopted once again by the Town's Guard; a canvas cover hangs from the back to keep the neck warm and hopefully stop shrapnel. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/townbrodiecover.rsi
@@ -1024,7 +1024,7 @@
   parent: N14ClothingHeadTownGuardBrodie
   id: N14ClothingHeadTownGuardBrodieVisor
   name: brodie helmet
-  description: A metal helmet offering some protection for the Town's Guard. This one has a visor to protect the eyes from direct damage.
+  description: A pre-war helmet used by British and Commonwealth forces until 1942, and adopted once again by the Town's Guard; a visor sits over the eyes to hopefully stop a bullet. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/townriothelmet.rsi
