@@ -2,7 +2,7 @@
   parent: ClothingEyesBase
   id: N14ClothingEyesGlassesWelding
   name: welding goggles
-  description: Goggles designed to protect the eyes against common work hazards, it has extra protection for welding.
+  description: Goggles used to protect the eyes from bright flashes, like those made by a welding torch
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Eyes/weldgoggles.rsi
@@ -14,7 +14,7 @@
   parent: ClothingEyesBase
   id: N14ClothingEyesGlassesPilot
   name: pilot goggles
-  description: Goggles designed to cover the eyes, commonly used by pilots in their flying machines.
+  description: Goggles used back when aircraft had open canopies. A pre-pre-war relic
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Eyes/pilotgoggles.rsi
@@ -27,7 +27,7 @@
   parent: ClothingEyesBase
   id: N14ClothingEyesGlassesGoggles
   name: goggles
-  description: A big pair of goggles that protect the eyes while keeping a good field of view.
+  description: A pair of glass goggles that protect the eyes from sand, snow and dust, without hindering visibility too much
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Eyes/goggles.rsi
@@ -38,7 +38,7 @@
   parent: ClothingEyesBase
   id: N14ClothingEyesGlasses
   name: glasses
-  description: A pair of glasses that help correct the vision of those born unfortunate.
+  description: An intact pair of glasses. It's surprising these are still a thing
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Eyes/glasses.rsi
@@ -64,7 +64,7 @@
   parent: ClothingEyesBase
   id: N14ClothingEyesNCRNVGs
   name: night vision goggles
-  description: Goggles designed to see in the dark, but doesn't do much against flashing lights, are quite heavy and unbalanced.
+  description: A pair of bulky and cumbersome night vision goggles. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Eyes/NVG2.rsi
