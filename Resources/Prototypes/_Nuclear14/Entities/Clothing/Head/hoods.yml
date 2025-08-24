@@ -2,7 +2,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatHoodLeatherCloak
   name: leather cloak hood
-  description: A hood of a leather cloak, it is made from the hide of brahmin leather.
+  description: A part of a leather cloak, able to be pulled over the head. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/leathercloak.rsi
@@ -19,7 +19,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatHoodGhillieCloak
   name: ghillie cloak hood
-  description: A hood of ghillie forest camo.
+  description: A hood consisting of mesh netting, woven with plants; both real and fake. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/ghilliecloak.rsi
@@ -36,7 +36,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatHoodRangerCloak
   name: ranger cloak hood
-  description: A hood of a Ranger cloak, it is made from salvaged wasteland material.
+  description: A piece of a cloak to cover the head, used by the NCR Rangers
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/rangercloak.rsi
@@ -61,7 +61,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatHoodPonchoCloak
   name: poncho cloak hood
-  description: A hood of a poncho cloak, it is made from muslin cotton.
+  description: A hood of a poncho cloak, made from muslin cotton.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/ponchocloak.rsi
@@ -103,7 +103,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatHoodBlackRobe
   name: black robe hood
-  description: A black hood covering all the head.
+  description: An all black hood covering all the head.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/falloutblackrobes.rsi
@@ -121,7 +121,7 @@
   parent: N14ClothingHeadHatHoodBlackRobe
   id: N14ClothingHeadHatHoodLeatherRobe
   name: Leather robe hood
-  description: A leather hood covering all the head.
+  description: A leather hood covering the head
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHoods/falloutleatherrobes.rsi
