@@ -2,7 +2,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesBlackBiker
   name: black biker gloves
-  description: Tough gloves for tough guys.
+  description: Leather gloves to protect the hands from road rash and bar fights
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/bikergloves.rsi
@@ -19,7 +19,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesBrownBiker
   name: brown biker gloves
-  description: Tough gloves for tough guys.
+  description: Leather gloves to protect the hands from road rash and bar fights
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/brownbikergloves.rsi
@@ -81,7 +81,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesDriver
   name: driver gloves
-  description: A pair of good-quality black leather gloves with multiple holes for ventilation.
+  description: A pair of gloves with holes for improved airflow
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/drivergloves.rsi
@@ -98,7 +98,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesFur
   name: fur gloves
-  description: A pair of good-quality black leather gloves with a fur interior, kinda warm.
+  description: A pair of cold-weather gloves, lined with fur to keep the hands warm. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/furgloves.rsi
@@ -113,7 +113,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesCombat
   name: combat gloves
-  description: A pair of tactical gloves that give comfy protection to the whole hand.
+  description: A pair of tactical gloves to protect the hands. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/combatgloves.rsi
@@ -133,7 +133,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesNitrile
   name: nitrile gloves
-  description: A pair of nitrile gloves. Not very resistent but commonly used for medical purposes due to the sterile material.
+  description: A pair of sterile nitrile gloves
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/nitrilegloves.rsi
@@ -147,7 +147,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesNitrilePurple
   name: nitrile gloves
-  description: A pair of nitrile gloves. Not very resistent but commonly used for medical purposes due to the sterile material. Now in purple!
+  description: A pair of purple, sterile nitrile gloves
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/purplenitrilegloves.rsi
@@ -161,7 +161,7 @@
   parent: N14ClothingHandsButcherableLeather
   id: N14ClothingHandsGlovesTribal
   name: tribal gloves
-  description: A piece of soft leather to tie around the hand.
+  description: A piece of soft leather that can be tied around the hand
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/tribalgloves.rsi
@@ -176,7 +176,7 @@
   parent: ClothingHandsButcherable
   id: N14ClothingHandsGlovesCloth
   name: cloth gloves
-  description: A piece of cloth to tie around the hand.
+  description: A piece of soft leather that can be tied around the hand
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/clothgloves.rsi
@@ -194,7 +194,7 @@
   parent: N14ClothingHandsButcherableLeather
   id: N14ClothingHandsGlovesNCR
   name: fingerless leather gloves
-  description: Gloves made out of wasteland animal hides, tanned and stitched together without any fingers.
+  description: Gloves sewn in the NCR homelands from various animal hides. These don't have any fingers
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/NCRgloves.rsi
@@ -209,7 +209,7 @@
   parent: N14ClothingHandsButcherableLeather
   id: N14ClothingHandsGlovesPatrol
   name: leather patrol gloves
-  description: Gloves made out of brahmin leather, tanned and stitched for the purpose of patrolling around the Mojave desert.
+  description: Gloves sewn in the NCR homelands from various animal hides. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Hands/Gloves/patrolgloves.rsi
