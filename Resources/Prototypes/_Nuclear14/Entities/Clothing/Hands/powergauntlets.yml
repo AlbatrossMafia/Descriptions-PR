@@ -2,7 +2,7 @@
   parent: ClothingHandsBase
   id: N14ClothingPAGauntlets
   name: power armor gauntlets
-  description: A pair of power suit gauntlets for rough work and battle.
+  description: The gauntlets for a suit of power armour. The metal plates protect the hands, and the hydraulics let the wearer hit like a truck. Just be sure to read the manual!
   categories: [ HideSpawnMenu ]
   components:
   - type: Appearance
@@ -41,7 +41,7 @@
   parent: N14ClothingPAGauntlets
   id: N14ClothingPAGauntletsTesla
   name: tesla armor gauntlets
-  description: A pair of power suit gauntlets that allows people near the user feel energised.
+  description: The gauntlets for a suit of power armour. The metal plates protect the hands, and the hydraulics let the wearer hit like a truck. This pair has arcs of electricity jumping between its tesla coils. 
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -58,7 +58,7 @@
   parent: N14ClothingPAGauntlets
   id: N14ClothingPAGauntletsDark
   name: power armor gauntlets
-  description: A pair of power suit gauntlets for rough work and battle.
+  description: The gauntlets for a suit of power armour. The metal plates protect the hands, and the hydraulics let the wearer hit like a truck.
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -68,7 +68,7 @@
   parent: N14ClothingPAGauntlets
   id: N14ClothingPAGauntletsMBoS
   name: power armor gauntlets
-  description: A pair of power suit gauntlets for rough work and battle.
+  description: The gauntlets for a suit of power armour. The metal plates protect the hands, and the hydraulics let the wearer hit like a truck.
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
