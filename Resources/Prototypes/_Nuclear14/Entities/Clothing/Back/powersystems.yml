@@ -1,8 +1,8 @@
 - type: entity
   parent: [Clothing, ContentsExplosionResistanceBase]
   id: N14ClothingPowerSystemsBack
-  name: armor power systems
-  description: The power systems of a suit of armour, they ensure that you can even move.
+  name: Fusion Core
+  description: A pre-war standard FC (Fusion Core), used in generators, as ammunition, and as power sources for suits of Power Armour. 
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
