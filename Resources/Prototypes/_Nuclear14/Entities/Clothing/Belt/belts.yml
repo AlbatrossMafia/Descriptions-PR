@@ -18,7 +18,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltBoSWebbing
   name: BoS carrier
-  description: A simple black carrier capable of holding all kind of ammo.
+  description: A set of military webbing, adopted by the Brotherhood of Steel for carrying ammunition and magazines. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/boswebbing.rsi
@@ -30,7 +30,7 @@
   parent: N14ClothingBeltStorageBase
   id: N14ClothingBeltBoSWebbing
   name: BoS webbing
-  description: A simple black carrier, capable of holding all kind of ammo and medicine for field-use.
+  description: A set of military webbing, adopted by the Brotherhood of Steel for carrying ammo and medicine for field-use.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/midwestboswebbing.rsi
@@ -66,7 +66,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltMilitary
   name: military carrier
-  description: A simple brown carrier capable of holding all kind of ammo, it was commonly used by the military of the pre-war.
+  description: A set of military webbing, used by soldiers in the pre-war. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/militarywebbing.rsi
@@ -78,7 +78,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltNCR
   name: NCR belt
-  description: A leather belt designed by the NCR for their troops.
+  description: A leather belt manufactured by the NCR for their soldiers. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/ncrbelt.rsi
@@ -90,7 +90,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltNCRPouches
   name: NCR pouches bandolier
-  description: A leather bandolier with multiple pouches designed by the NCR for their troops.
+  description: A leather bandolier with multiple pouches, perfect for NCR soldiers. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/ncrpouches.rsi
@@ -114,7 +114,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltNCRBandolier
   name: bandolier
-  description: A bandolier commonly used to carry single shells or cartridges, modified by the NCR for more capacity.
+  description: A bandolier commonly used to carry single shells or cartridges, adopted by the NCR for carrying spare ammunition and magazines. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/bandolier.rsi
@@ -125,7 +125,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltRope
   name: rope belt
-  description: A handmade belt with a rope, not the best but at least works.
+  description: A handmade belt with a rope; it's not the best, but it works
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/ropebelt.rsi
@@ -159,7 +159,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltRevolver
   name: revolver holster
-  description: Can hold a revolver and speedloaders.
+  description: The holster of choice for cowboys, rangers, and any self-respecting mercenary. Yeehaw. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/revolverholster.rsi
@@ -188,7 +188,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltEnclave
   name: Enclave belt
-  description: A leather belt designed by the Enclave.
+  description: A leather belt used by the Enclave. 
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -210,7 +210,7 @@
   parent: N14ClothingBeltStorageBase
   id: ClothingBeltMountie
   name: mountie pouched bandolier
-  description: A simple brown bandolier capable of holding all kind of ammo.
+  description: A bandoleer, used by the self-proclaimed Royal Canadian Mounted Police after the war. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Belt/mountiebandolier.rsi
