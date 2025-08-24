@@ -71,7 +71,7 @@
   parent: ClothingMaskBase
   id: N14ClothingMaskBrownBalaclava
   name: brown balaclava
-  description: A piece of cloth with a hole in it to see, not really a big invention from the pre-war but it can be warm enough to protect from the cold. This one is brown.
+  description: A piece of cloth with a hole in it to see, thick enough to protect against the cold. This one is brown.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Mask/brownbalaclava.rsi
@@ -88,7 +88,7 @@
   parent: ClothingMaskBase
   id: N14ClothingMaskBlackBalaclava
   name: black balaclava
-  description: A piece of cloth with a hole in it to see, not really a big invention from the pre-war but it can be warm enough to protect from the cold. This one is black.
+  description: A piece of cloth with a hole in it to see, thick enough to protect against the cold. This one is black.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Mask/blackbalaclava.rsi
@@ -106,7 +106,7 @@
   parent: ClothingMaskBase
   id: N14ClothingMaskWhiteBalaclava
   name: white balaclava
-  description: A piece of cloth with a 2 holes in it to see, not really a big invention from the pre-war but it can be warm enough to protect from the cold. This one is white.
+  description: A piece of cloth with a hole in it to see, thick enough to protect against the cold. This one is white.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Mask/whitebalaclava.rsi
@@ -124,7 +124,7 @@
   parent: ClothingMaskPullableBase
   id: N14ClothingMaskSkirmisher
   name: skirmisher mask
-  description: A leather mask with hanging chain mail to protect the mouth area, not the best but it can stop sharpnel pretty well.
+  description: A mask initially designed during the First World War to protect the face against spalling inside a tank, now useful to protect against knives. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Mask/mountiemask.rsi
