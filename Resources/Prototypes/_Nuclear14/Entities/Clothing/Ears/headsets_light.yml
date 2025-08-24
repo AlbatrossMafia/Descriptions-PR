@@ -3,7 +3,7 @@
   parent: Clothing
   id: N14ClothingHeadsetLightScribe
   name: headset
-  description: A modular intercom that fits over the head. Takes encryption keys and has a powerful light.
+  description: A headset used by the Brotherhood of Steel's many scribes. Comes with an affixed light and a radio earpiece. 
   components:
   - type: Item
     heldPrefix: off
