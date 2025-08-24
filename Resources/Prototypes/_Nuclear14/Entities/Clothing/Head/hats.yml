@@ -22,7 +22,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatDeputy
   name: deputy hat
-  description: When the sheriff can't do the job alone, that's when a deputy comes in.
+  description: The hat for lawmen and peacekeepers.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/cowboyhatbountyhunter.rsi
@@ -35,7 +35,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatSheriff
   name: sheriff hat
-  description: The law personified in a hat.
+  description: The hat for the guy in charge of lawmen and peacekeepers. 
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/hoshat.rsi
@@ -62,7 +62,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatCowboyGreyBanded
   name: banded cowboy hat
-  description: A rugged grey cowboy hat with some brass casings banded around itself.
+  description: A rugged grey cowboy hat with some brass casings tied to it. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/rangerhatgreybanded.rsi
@@ -104,7 +104,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatBeanie
   name: beanie hat
-  description: A dark green beanie hat.
+  description: A dark green hat, for keeping the head warm. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/beanie.rsi
@@ -118,7 +118,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatWoodBoonie
   name: woods boonie
-  description: A boonie hat, this one has green woodland camo.
+  description: A boonie hat, this one is covered in green woodland camo.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/booniewood.rsi
@@ -131,7 +131,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatWinterBoonie
   name: winter boonie
-  description: A boonie hat, this one has snow-white camo.
+  description: A boonie hat, this one is covered in snow-white camo.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/booniewinter.rsi
@@ -144,7 +144,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatDesertBoonie
   name: desert boonie
-  description: A boonie hat with desert camo.
+  description: A boonie hat covered in desert camo.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/booniedesert.rsi
@@ -158,7 +158,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatArmyBeret
   name: army beret
-  description: A pre-war army beret. This one is black.
+  description: A black pre-war army beret.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/armyberet.rsi
@@ -171,7 +171,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatArmyBeretAirborne
   name: army airborne beret
-  description: A pre-war army beret. Crimson with a winged insignia.
+  description: A crimson army beret from the pre-war. It has a winged insignia pinned into it; the best of the best. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/armyberetairborne.rsi
@@ -184,7 +184,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatArmyBeretRanger
   name: army ranger beret
-  description: A pre-war army beret. Brown with a Ranger insignia.
+  description: A brown, pre-war beret bearing the insignia of the US Army Rangers. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/armyberetranger.rsi
@@ -197,7 +197,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatArmyBeretSpecial
   name: army special forces beret
-  description: A pre-war army beret. This one is green.
+  description: A pre-war beret worn by special forces. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/armyberetspecial.rsi
@@ -210,7 +210,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatArmyCap
   name: army cap
-  description: A pre-war army cap. Slightly worn.
+  description: A pre-war army cap bearing the insignia of the US Army. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/armycap.rsi
@@ -224,7 +224,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatBandit
   name: bandit hat
-  description: Uh oh. He's coming this way.
+  description: A hat for ruffians, brigands, highwaymen, and the people who dare to fight the law. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/bandit.rsi
@@ -264,7 +264,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatBrotherhoodFieldCap
   name: brotherhood of steel field cap
-  description: A cap worn by Paladins of the Midwest Brotherhood during their field duties.
+  description: A cap worn by Paladins of the Midwest Brotherhood. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/brotherhoodhat.rsi
@@ -348,7 +348,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatNCRBeretMedic
   name: NCR medic beret
-  description: An white beret worn by NCR Medics.
+  description: A white beret worn by NCR Medics.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/ncrberetmedical.rsi
@@ -361,7 +361,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatNCRBeretRecon
   name: NCR recon beret
-  description: An crimson beret worn by NCR Recon Units.
+  description: A crimson beret worn by the best marksmen of the NCRA. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/ncrberetrecon.rsi
@@ -374,7 +374,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatNCRBeretQM
   name: NCR quartermaster beret
-  description: A black beret worn by NCR Quartermasters.
+  description: I will be dead and gone before you lay a fucking *finger* on any of my cabinets!
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/ncrberetsapper.rsi
@@ -400,7 +400,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatRanger
   name: ranger hat
-  description: A cool cowboy hat made by the NCR for the Rangers.
+  description: A cool cowboy hat for use by the NCR Rangers. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/rangerhat.rsi
@@ -429,7 +429,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatTribalOutcastHood
   name: tribal outcast hood
-  description: Shame! A hood worn by outcasts.
+  description: Shame! A hood worn by outcasts, or anybody looking to keep the sun off their neck.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/tribalhoodoutcast.rsi
@@ -580,7 +580,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatMountie
   name: mountie hat
-  description: A flat hat made 100% of fur felt.
+  description: A flat hat made of fur felt. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/mountiehat.rsi
@@ -594,7 +594,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatChinese
   name: chinese hat
-  description: A ushanka style of hat with the communist chinese insignia on the front.
+  description: A Ushanka hat, worn by Communist commandos and bearing the insignia of the Chinese Communist Party. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/chinesehat.rsi
@@ -608,7 +608,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatVancouver
   name: vancouver preventor cap
-  description: A simple green cap used by the vancouver preventor force.
+  description: A simple green cap used by the Vancouver Preventor force.
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/vancouverhat.rsi
@@ -622,7 +622,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatVaultRiot
   name: vault riot helmet
-  description: The only thing standing between your face and a knife.
+  description: For when things get hot in the Vault. But that won't happen... will it?
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/vaultriot.rsi
@@ -643,7 +643,7 @@
   parent: ClothingHeadBase
   id: N14ClothingHeadHatAnimal
   name: canine hat
-  description: Made from a dog-like creature, this wild looking hat will keep your head warm and safe.
+  description: Made from a dog-like creature, this hat will keep your head warm. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Head/FalloutHats/animalhat.rsi
