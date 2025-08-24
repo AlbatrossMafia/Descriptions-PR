@@ -3,7 +3,7 @@
   parent: ClothingBackpackSatchel
   id: N14ClothingBackpackSatchelTrekker
   name: trekker satchel
-  description: A satchel used by wasteland trekkers.
+  description: A well-worn satchel for a wasteland wanderer
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Back/Satchels/trekker.rsi
@@ -12,7 +12,7 @@
   parent: ClothingBackpackSatchel
   id: N14ClothingBackpackSatchelExplorer
   name: explorer satchel
-  description: A satchel used by wasteland explorers.
+  description: A heavy-duty satchel, ideal for long trips in the wasteland. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Back/Satchels/explorer.rsi
@@ -22,7 +22,7 @@
   parent: ClothingBackpackSatchel
   id: N14ClothingBackpackSatchelTribal
   name: explorer satchel
-  description: A satchel used by wasteland explorers.
+  description: A heavy-duty satchel, ideal for long trips in the wasteland. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Back/Satchels/explorer.rsi # placeholder
@@ -32,7 +32,7 @@
   parent: ClothingBackpackSatchel
   id: N14ClothingBackpackSatchelMilitary
   name: military satchel
-  description: A tough satchel used by the military.
+  description: A satchel used by pre-war combat medics, engineers, and anybody who doesn't quite need a full backpack. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Back/Satchels/military.rsi
@@ -41,7 +41,7 @@
   parent: ClothingBackpackSatchel
   id: N14ClothingBackpackSatchelNCR
   name: NCR satchel
-  description: A tough satchel used by the NCR.
+  description: A satchel made in the post-war New California Republic for their soldiers in the field. 
   components:
   - type: Sprite
     sprite: _Nuclear14/Clothing/Back/Satchels/satchelncr.rsi
