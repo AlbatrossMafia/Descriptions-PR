@@ -2,7 +2,7 @@
   parent: ClothingBackpackDuffel
   id: N14ClothingBackpackDuffel
   name: duffel bag
-  description: A large duffel bag for holding extra things.
+  description: A pre-war duffel bag, for storing large amounts of equipment
   components:
   - type: Sprite
     sprite: Clothing/Back/Duffels/duffel.rsi
@@ -11,8 +11,8 @@
 - type: entity
   parent: N14ClothingBackpackDuffel
   id: N14ClothingBackpackDuffelSalvage
-  name: salvage duffel bag
-  description: A large duffel bag for holding extra exotic treasures.
+  name: worn duffel bag
+  description: A pre-war duffel bag made of a sturdy weave. About as durable as it gets
   components:
     - type: Sprite
       sprite: Clothing/Back/Duffels/salvage.rsi
@@ -21,7 +21,7 @@
   parent: N14ClothingBackpackDuffel
   id: N14ClothingBackpackDuffelMilitary
   name: military duffel bag
-  description: A large duffel bag for holding heavy equipment.
+  description: A military-grade duffel bag. Durable, reliable, and well-loved. 
   components:
   - type: Sprite
     sprite: Clothing/Back/Duffels/syndicate.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: N14ClothingBackpackDuffelMilitary
   id: N14ClothingBackpackDuffelMilitaryMedical
-  name: military medical duffel bag
-  description: A large duffel bag for holding medical equipment.
+  name: military trauma bag
+  description: A large duffel bag for holding medical equipment, used by pre-war combat medics.
   components:
   - type: Sprite
     sprite: Clothing/Back/Duffels/syndicate.rsi
