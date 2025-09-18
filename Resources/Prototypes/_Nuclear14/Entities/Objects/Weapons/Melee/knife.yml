@@ -173,3 +173,23 @@
     sprite: _Nuclear14/Objects/Weapons/Melee/brass_knife.rsi
   - type: StaticPrice
     price: 20
+
+- type: entity
+  name: kukri knife
+  parent: CombatKnife
+  id: N14KukriKnife
+  description: Professionals have standards. Be polite. Be efficient. Have a plan to kill everyone you meet.
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Melee/kukri_knife.rsi
+    state: icon
+  - type: MeleeWeapon
+    attackRate: 1.0
+    range: 1.75
+    damage:
+      types:
+        Slash: 10
+  - type: ThrowingAngle
+    angle: 225
+  - type: Item
+    sprite: Objects/Weapons/Melee/kukri_knife.rsi
